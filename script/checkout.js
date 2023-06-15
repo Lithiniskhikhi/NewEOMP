@@ -109,9 +109,7 @@ function changeQuantity(key, quantity){
     }
     reloadCard();
 }
-4:43
-============CODE JS =============
-4:44
+
 let products = [
   {
     id: 1,
@@ -242,7 +240,7 @@ let vinyls = [
       cost: "R 85000",
     },
 ];
-// let divChrome = document.querySelector("#product");
+
 // products.forEach((reader) => {
 //   divChrome.innerHTML += `
 //   <div class="col-sm-2 col-lg-3 m-2">
